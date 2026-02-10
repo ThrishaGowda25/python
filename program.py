@@ -10,6 +10,12 @@ word1=input()
 first=word1[0]
 otherwords=len(word1)-1
 print(first+'*'*otherwords)
+#prints the first n last letter of the given word n stars(*) instead of the other letters
+word5=input()
+first=word5[0]
+last=word5[len(word5)-1]
+length=len(word5)-2
+print(first+'*'*length+last)
 #program that reads a word and prints the word in the given format **** code ****(no of stars = to len og word)
 word2=input()
 length=len(word2)
