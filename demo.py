@@ -1,1 +1,3 @@
-print("hello world")
+word=input()
+print(word)
+print("###")
