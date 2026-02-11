@@ -1,4 +1,4 @@
-message=input()
+message=input()# slicling can be done only to strings
 part=message[3:6]
 print(part)
 part=message[3:]
