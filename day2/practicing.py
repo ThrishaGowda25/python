@@ -11,3 +11,6 @@ w=str(input())
 N=int(input())
 res=w*N
 print(res)
+"""program to read a single line input n print the first 3 characters of the input"""
+a=input()
+print(a[:3])
