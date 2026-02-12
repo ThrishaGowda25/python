@@ -5,3 +5,9 @@ w=str(input())
 n=int(input())
 res=w[n]
 print(res)
+
+""" given a word and a number N,write a program to print the given word,N number of times in a single line"""
+w=str(input())
+N=int(input())
+res=w*N
+print(res)
