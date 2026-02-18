@@ -8,11 +8,11 @@ c=input()
 res=(a=="woman") or (b=="woman") or (c=="woman")
 print(res)
 
-"""a=int(input())
+a=int(input())
 b=int(input())
 c=int(input())
 res=(a<15 or b<15 or c<15)
-print(res)"""
+print(res)
 
 
 """a=int(input())
