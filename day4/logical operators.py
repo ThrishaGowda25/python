@@ -15,21 +15,21 @@ res=(a<15 or b<15 or c<15)
 print(res)
 
 
-"""a=int(input())
+a=int(input())
 b=int(input())
 res= a>0 and b>0
-print(res)"""
+print(res)
 
-"""a=int(input())
+a=int(input())
 b=int(input())
 res=a>=15 or b>=15
-print(res)"""
+print(res)
 
 
-"""a=int(input())
+a=int(input())
 b=input()
 res=(a>12 and a<60) or (b=="yes")
-print(res)"""
+print(res)
 
 """a=int(input())
 b=int(input())
