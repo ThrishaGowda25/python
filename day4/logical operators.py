@@ -31,13 +31,13 @@ b=input()
 res=(a>12 and a<60) or (b=="yes")
 print(res)
 
-"""a=int(input())
+a=int(input())
 b=int(input())
 res=(a+b<10) or (a-b<10) or(a>5 and a<30)
-print(res)"""
+print(res)
 
-"""m=int(input())
+m=int(input())
 p=int(input())
 c=int(input())
 res=(m>=70 and p>=60 and c>=60) or (m+p+c>=180)
-print(res) """
+print(res) 
