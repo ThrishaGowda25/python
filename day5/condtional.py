@@ -49,3 +49,12 @@ if cond1:
     print("It's a Triangle")
 else:
     print("It's not a Triangle")
+
+
+salary=int(input())
+experience=int(input())
+if experience>5:
+    increment=salary*0.05
+    print(increment)
+else:
+    print("No Bonus")
