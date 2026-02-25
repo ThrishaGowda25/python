@@ -40,3 +40,12 @@ if res:
     print("Difference is less than 25")
 else:
     print("Difference is not less than 25")
+
+a=int(input())
+b=int(input())
+c=int(input())
+cond1=(a+b)>c and (b+c)>a and (a+c)>b
+if cond1:
+    print("It's a Triangle")
+else:
+    print("It's not a Triangle")
