@@ -24,3 +24,10 @@ if res:
     print("All are greater than 100")
 else:
     print("Not all are greater than 100") 
+
+n=input()
+word=int(n[1:])
+if word<30:
+    print("Ground Floor")
+else:
+    print("Not Ground Floor")
